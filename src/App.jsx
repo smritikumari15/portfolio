@@ -21,8 +21,8 @@ function App() {
   <First />
   <div className='sm:flex sm:flex-col  sm:items-end sm:p-5'>
   <LaptopBtn />
-  {/* <About /> */}
-  <Resume />
+  <About />
+  {/* <Resume /> */}
   </div>
 
 </div>
